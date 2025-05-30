@@ -1,5 +1,9 @@
-## Hi there 👋
+# 你好，我是柔丽君 
 
+## 活跃平台
+   * 微信公众号：程序员柔丽君
+   * CSDN：https://blog.csdn.net/weixin_46624670?type=blog
+   * 掘金：https://juejin.cn/user/2851461436292612/posts
 <!--
 **loblok-r/loblok-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
